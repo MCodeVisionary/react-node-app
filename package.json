@@ -43,7 +43,7 @@
       "module-alias": "^2.2.2",
       "mongodb": "^3.3.3",
       "mongoose": "^5.7.7",
-      "nodemailer": "^6.3.1",
+      "nodemailer": "^7.0.7",
       "nodemailer-mailgun-transport": "^1.4.0",
       "url-slug": "^2.2.0",
       "validator": "^13.7.0"
